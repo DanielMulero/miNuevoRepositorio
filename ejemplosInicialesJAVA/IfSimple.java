@@ -12,9 +12,12 @@ public class IfSimple {
 		if (num>=0) {
 			System.out.println("El n�mero es positivo");
 		}
-
-
 		
+		if (num<=0) {
+			System.out.println("El n�mero es negativo");
+		}
+	
+	
 		System.out.println("ADIOS");
 		
 		
