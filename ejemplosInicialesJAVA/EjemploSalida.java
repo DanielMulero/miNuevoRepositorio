@@ -14,8 +14,9 @@ public class EjemploSalida {
 		//ESCRIBIR "La letra ",carac1," con la ",carac2," sería ",a,b
 		System.out.println("La letra "+carac1+" con la "+carac2+" sería "+carac1+carac2);
 		
-		System.out.println("Hasta luego");
+		System.out.println("Hasta luego Enrique!!!");
 		
+		System.out.println("Cierra esto ya");
 		
 	}
 
